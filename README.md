@@ -1,18 +1,9 @@
 # RBAC plugin for CakePHP
+RBAC is a CakePHP 3.x plugin to implement a Role-Based Access Control for your application.
+This plugin is under construction, the first stable version will be released soon.
 
-## Installation
-
-You can install this plugin into your CakePHP application using [composer](http://getcomposer.org).
-
-The recommended way to install composer packages is:
-
-```
-composer require aoliverio/rbac
-```
 ## List of Tables
-
 This plugin use this tables for implement a RBAC3 (ANSI INCITS 359-2004 compliant). 
-
 - users
 - user_assignment
 - roles
